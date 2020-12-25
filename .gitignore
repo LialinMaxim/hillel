@@ -1,0 +1,11 @@
+venv
+.idea
+.env
+.backup
+.terraform
+
+*.tfstate
+*.tfstate.*
+*.plan
+.log
+.history
